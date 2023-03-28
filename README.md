@@ -1,3 +1,3 @@
-# CustomStyle
+# CustomUI
 
-A description of this package.
+SwiftUI package holding the setup for a basic app custom UI.
